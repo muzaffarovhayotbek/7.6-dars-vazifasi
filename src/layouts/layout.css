@@ -1,0 +1,14 @@
+.header{
+  margin-top: 25px;
+  margin-bottom: 45px;
+}
+
+.header-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-list a{
+  font-size: 24px;
+  color: black;
+}
